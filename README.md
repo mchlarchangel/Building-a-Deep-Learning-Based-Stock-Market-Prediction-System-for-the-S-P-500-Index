@@ -1,10 +1,10 @@
 # S&P 500 Stock Price Prediction Using Deep Learning
 
-This project aims to predict S&P 500 stock prices using Deep Learning models, namely LSTM, CNN, and Transformer. The dataset used is historical stock price data for the S&P 500 from 2015 to 2025.
+This project aims to predict S&P 500 stock prices using Deep Learning models, namely LSTM, and CNN. The dataset used is historical stock price data for the S&P 500 from 2015 to 2025.
 
 ## Project Objectives
 - Build Deep Learning models to predict S&P 500 stock prices.
-- Compare the performance of LSTM, CNN, and Transformer models.
+- Compare the performance of LSTM, and CNN models.
 - Provide visualizations of predicted vs actual values.
 
 ## Dataset
