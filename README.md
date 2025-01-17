@@ -47,7 +47,7 @@ The dataset can be downloaded from [here](https://www.nasdaq.com/market-activity
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mchlarchangel/Building-a-Deep-Learning-Based-Stock-Market-Prediction-System-for-the-S-P-500-Index.git
+   git clone https://github.com/nnichaelangello/Building-a-Deep-Learning-Based-Stock-Market-Prediction-System-for-the-S-P-500-Index.git
    cd repository-name
    ```
 
